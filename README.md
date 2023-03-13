@@ -1,6 +1,7 @@
 # RxjsReactiveAngular
+Neste README, criei um resumo do que estudei e entendi sobre RxJs.
 
-06 – Diferenças (observable | subject | behavior)
+## Diferenças entre Observable, Subject e BehaviorSubject
 - Observable:
   - Não guarda o último valor emitido
   - Não envia o último valor emitido para novos assinantes
@@ -27,3 +28,7 @@ EXEMPLOS:
   - Gerenciamento de eventos 
   - Notificações push
 
+- BehaviorSubject: 
+  - Armazenar o estado atual de um aplicativo 
+  - Rastrear mudanças no estado de um usuário 
+  - Compartilhar dados entre componentes
