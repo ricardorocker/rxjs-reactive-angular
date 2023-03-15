@@ -32,3 +32,8 @@ EXEMPLOS:
   - Armazenar o estado atual de um aplicativo 
   - Rastrear mudanças no estado de um usuário 
   - Compartilhar dados entre componentes
+
+
+- Operadores de criação
+  - FROM
+    - É uma função que converte os dados de entradas diferentes, como arrays, iterables, observáveis e até mesmo objetos literais, em um fluxo de Observável.
